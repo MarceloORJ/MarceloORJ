@@ -1,7 +1,7 @@
 ## Hi! I'm Marcelo Oliveira 👋
 
 
-- 🎓 I’m currently learning Python at EBAC
+- 🎓 I’m currently learning Python Full-Stack at EBAC
 - 📫 How to reach me: marceloorjr@gmail.com
 
 ##
