@@ -2,7 +2,7 @@
 
 
 - 🎓 I’m currently learning Python Full-Stack at EBAC
-- 📫 How to reach me: marceloorjr@gmail.com
+- 📫 How to reach me: marceloorjr@gmail.com / linkedin.com/in/marceloorj
 
 ##
 
